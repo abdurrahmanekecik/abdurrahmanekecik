@@ -46,7 +46,7 @@
         <p align="center">
           <a href="https://github.com/abdurrahmanekecik/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanekecik&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanekecik&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanekecik" />
           </a>
        </p>
      <br>
