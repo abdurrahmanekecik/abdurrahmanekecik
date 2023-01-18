@@ -36,18 +36,4 @@
 </div>
 
 
-  <div>
-    <h2 align="center"> 💻 GitHub Profile Stats📊 </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/abdurrahmanekecik">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanekecik&langs_count=8&theme=gruvbox&layout=compact&hide_border=true" alt="Abdurrahman Ekecik :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/abdurrahmanekecik/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanekecik&show_icons=true&theme=gruvbox&" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanekecik&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
+ 
