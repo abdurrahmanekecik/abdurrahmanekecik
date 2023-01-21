@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://abdurrahmanekecik.com/projects/git/waving.gif">, I'm Abdurrahman</h1>
+<h1 align="center">Hi <img width="35" src="https://abdurrahmanekecik.com/assets/img/waving.gif">, I'm Abdurrahman</h1>
 <h4 align="center">a web developer an also an Management Information System students at Necmettin Erbakan state university.</h4>
 </div>
 
 <div align="center">
   <a href="https://abdurrahmanekecik.com">
-  <img  src="https://abdurrahmanekecik.com/projects/git/grid-snake.svg"
+  <img  src="https://abdurrahmanekecik.com/assets/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
