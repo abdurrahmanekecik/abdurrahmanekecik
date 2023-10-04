@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-  <a href="https://abdurrahmanekecik.com">
   <img  src="https://abdurrahmanekecik.com/assets/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
